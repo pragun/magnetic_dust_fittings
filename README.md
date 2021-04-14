@@ -31,3 +31,22 @@ There are following fittings in this library, I'll update as I add more.
 6. 2.5" flange for PVC 2in Sch40 pipe, friction fit. I use it with my DiY shop vacuum broom
 7. 4" flange for PVC 4in DWV pipe, friction fit.
 8. 4" to 2.5" reducer. The reducer clamps onto the 2.5" hose side, mating with a 4" magnetic face.
+
+Here's an image gallery
+<table style="padding:10px; vertical-align: bottom;">
+  <tr>
+    <td colspan=2><p>2.5" hose fittings</p><img src="./img/25_group_photo.jpg"  alt="1" width = 500px ></td>
+    <td colspan=2><p>2.5" to 4" coupler</p><img src="./img/25_4_coupler.jpg"  alt="1" width = 500px></td>
+  </tr>
+  <tr>
+    <td colspan=2><p>Dewalt Track Saw</p><img src="./img/dewalt_tracksaw_1.jpg"  alt="1" width = 500px ></td>
+    <td colspan=2><img src="./img/dewalt_tracksaw_2.jpg"  alt="1" width = 500px></td>
+  </tr>
+  <tr>
+    <td><p>Massca pocket hole jig</p><img src="./img/massca1.jpg"  alt="1" width = 250px ></td>
+    <td><img src="./img/massca2.jpg"  alt="1" width = 250px></td>
+    <td><p>Makita RT0701c</p><img src="./img/makita_front.jpg"  alt="1" width = 250px ></td>
+    <td><img src="./img/makita_side.jpg"  alt="1" width = 250px></td>
+  </tr>
+  
+</table>
