@@ -9,6 +9,12 @@ Magnets can be bought at many online stores including
 This is where I got my magnets
 - [AppliedMagnets](https://appliedmagnets.com/)
 This is probably where I'll get more from if I need some.
+The magnets are an easy press-fit into the printed plastic part.
+I just press the magnet in by pushing the fitting against my table surface. 
+Needless to say, the magnets need to be installed in alternating polarity to ensure
+that there are atleast three specific orientations between any 2.5" fittings, and six specific orientations 
+for any 4" fittings where they attract.
+
 
 You should probably get a mix of N35, N42 and N52 magnets. 
 I also recommend creating a color scheme with the fittings 
